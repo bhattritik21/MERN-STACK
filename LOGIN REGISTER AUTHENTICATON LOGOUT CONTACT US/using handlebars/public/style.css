@@ -1,0 +1,6 @@
+body{
+    height: 100vh; display:flex;flex-direction: column; width:100vw;overflow-x:hidden
+}
+.container{
+    padding: 1%;
+}
